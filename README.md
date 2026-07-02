@@ -1,11 +1,10 @@
-# Co-authored and Contributed Publications
+# Authored and Contributed Publications
 
-This repository stores publications I have co-authored or contributed to, in accordance with the Open Access policies of [Springer Nature](https://www.nature.com/palcomms/open-access) and the [OECD](https://www.oecd.org/en/about/oecd-open-by-default-policy.html).
+This repository stores publications I have authored or contributed to, in accordance with the Open Access policies of [Springer Nature](https://www.nature.com/palcomms/open-access) and the [OECD](https://www.oecd.org/en/about/oecd-open-by-default-policy.html).
 
-Please refer to the Acknowledgements section of the respective publication to verify my authorship or contributions.
-
-### Co-authored publications 
-
+### Authored publications 
+* OECD (2026) - OECD Compendium of Productivity Indicators 2026
+  * https://doi.org/10.1787/734a5e68-en
 * Yabe, K., Opršal, Z., Harmáček, J. and Syrovátka, M (2024) - Aid Allocation across the Humanitarian-Development-Peace Nexus: the Role of Fragility as a Donors’ Motive
   * https://doi.org/10.1057/s41599-024-03512-5
 * OECD (2022a) - States of Fragility 2022
